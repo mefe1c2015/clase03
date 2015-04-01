@@ -1,0 +1,2 @@
+Compilar con:
+g++ -o nombre_del_ejecutable nombre_del_source.cpp -lm

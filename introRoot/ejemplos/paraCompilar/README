@@ -1,0 +1,2 @@
+g++ -c random.cpp $(root-config --cflags)
+g++ -o random.exe random.o $(root-config --libs)
